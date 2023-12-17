@@ -1,0 +1,110 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container{
+    background-color: #CC99FF;
+}
+
+.banner-column{
+    background-color: #E5CCFF;
+}
+
+.navbar-container{
+    top: 0;
+    background-color: beige;
+    position: sticky;
+    z-index: 2;
+
+}
+
+.about-container{
+    background-color: #660033;
+}
+
+.education-container{
+    background-color: #CCE5FF;
+}
+.redtype{
+    background-color: #FFB266;
+}
+
+.redtype:hover{
+    color: black!important;
+}
+
+.circle{
+    background-color: #FFB266;
+    width: 100px;
+    height: 100px;
+    border-radius: 30%;
+
+}
+
+.whitetype{
+    background-color: beige;
+}
+
+.project-container {
+    background-image: url('/FInal Project/img/black.jpg');
+    background-size: cover; /* or contain, etc. */
+    background-position: center; /* or specific coordinates */
+    background-repeat: no-repeat; /* or repeat-x, repeat-y, repeat */
+  }
+  
+.form-container{
+    background-color: darkcyan;
+}
+
+.inner-form{
+    background-color: aquamarine;
+}
+
+.fotter{
+    background-color: antiquewhite;
+}
+
+.circlen{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: blue;
+}
+
+.circlen:hover{
+    background-color: darkgrey;
+}
+.circlengit{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: blueviolet;
+}
+
+.circlengit:hover{
+    background-color: darkgrey;
+}
+
+.circlenlinked{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: darkcyan;
+}
+
+.circlenlinked:hover{
+    background-color: darkgrey;
+}
